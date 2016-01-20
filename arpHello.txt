@@ -1,0 +1,3 @@
+hello file new for global git
+
+Add new line here
