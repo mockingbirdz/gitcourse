@@ -2,7 +2,7 @@
 
 <p> hello everyone</p>
 </html
-
+<h2 style="color:#FFA07A ">File in the cloned directory</h2>
 <p> hello </p>
 </html>
 
